@@ -1,0 +1,11 @@
+body, html {
+    font-family: 'Verdana', 'Geneva', sans-serif;
+    margin: 0;
+    padding: 0;
+   }
+.Eu img {
+  max-width: 150px ;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+}
