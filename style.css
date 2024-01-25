@@ -3,9 +3,18 @@ body, html {
     margin: 0;
     padding: 0;
    }
-.Eu img {
-  max-width: 150px ;
+
+header > img {
+  max-width: 150px;
   max-height: 200px;
   width: auto;
   height: auto;
+}
+
+header {
+  margin-top: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
